@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+.env
+.vscode/
+
+payload.json
+pdf_contents.txt
+node_modules/
+dist/
+coverage/
+.env
